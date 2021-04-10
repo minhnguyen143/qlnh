@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '103.124.92.172',
-	'username' => 'qlnh',
-	'password' => 'hao123abc!@#',
-	'database' => 'qlnh',
+	'hostname' => 'ec2-52-21-252-142.compute-1.amazonaws.com',
+	'username' => 'msbeqreeegwbvj',
+	'password' => '4eaf6dde2d5609f45af4f6e2330a8cb7f112510568e884362209ff46de23bb7a',
+	'database' => 'df7l81pukcikjt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
